@@ -6,3 +6,8 @@ if my_number == 10
 break
 end
 end
+number = 0
+while number <= 99 do
+number = number + 1
+puts number
+end
